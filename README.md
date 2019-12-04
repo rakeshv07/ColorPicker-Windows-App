@@ -4,6 +4,8 @@
 
 ## Screenshots
 
+![output](Screenshots/Screenshot 1.png)
+
 ![Screenshot1](Screenshots/Screenshot 1.png)
 
 
