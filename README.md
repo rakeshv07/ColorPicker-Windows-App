@@ -4,9 +4,9 @@
 
 ## Screenshots
 
-![output](Screenshots/Screenshot 1.png)
+![output](Screenshots/Screenshot1.png)
 
-![Screenshot1](Screenshots/Screenshot 1.png)
+![Screenshot1](Screenshots/Screenshot1.png)
 
 
-![Screenshot2](Screenshots/Screenshot 2.png)
+![Screenshot2](Screenshots/Screenshot2.png)
